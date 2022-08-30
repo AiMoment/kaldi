@@ -12,6 +12,14 @@ $ git clone https://github.com/kaldi-asr/kaldi.git
 $ sudo apt install -y g++ wget libtool automake autoconf subversion gfortran sox
 ```
 
+然后进入到Kaldi文件夹，可以观察以下Kaldi的目录结构。
+
+其中**./tools，./src 和./egs**三个目录比较重要：
+
+- ./tools 目录存放Kaldi依赖的包
+- ./src 目录存放Kaldi的源代码
+- ./egs 目录存放Kaldi官方提供的一些例子
+
 ## 三、进入kaldi的工程，并切到tools目录下，编译所需要的工具
 
 ```shell
