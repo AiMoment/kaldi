@@ -139,4 +139,8 @@ PS:WER（Word Error Rate）是字错误率，是一个衡量语音识别系统�
 
 认错的全都加起来，除以总单词数。这个数字当然是越低越好。
 
+## 参考
+
+kaldi 官方手册： http://kaldi-asr.org/doc/tutorial_setup.html
+
 
