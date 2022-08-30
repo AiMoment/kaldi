@@ -14,7 +14,7 @@ $ sudo apt install -y g++ wget libtool automake autoconf subversion gfortran sox
 
 然后进入到Kaldi文件夹，可以观察以下Kaldi的目录结构。
 
-其中**./tools，./src 和./egs**三个目录比较重要：
+其中 **./tools，./src 和./egs**  三个目录比较重要：
 
 - ./tools 目录存放Kaldi依赖的包
 - ./src 目录存放Kaldi的源代码
